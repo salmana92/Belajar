@@ -1,0 +1,3 @@
+ini pertama kalinya latihan menggunakan terminal dan git
+
+untuk mengkonfigurasi virtualenvwrapper belum bisa
