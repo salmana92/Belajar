@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Cloud Project
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
